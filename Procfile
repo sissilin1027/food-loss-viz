@@ -1,0 +1,1 @@
+web: gunicorn food-loss-viz:server --log-file=-
