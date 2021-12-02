@@ -1,0 +1,109 @@
+﻿Food Value Chain Stage,Food Classification,percentage_loss_of_quantity
+Consumer,Dry Cereals,
+Distribution,Dry Cereals,0.36
+Export,Dry Cereals,
+Farm,Dry Cereals,4183.7
+Grading,Dry Cereals,30
+Harvest,Dry Cereals,6046.015
+Market,Dry Cereals,
+Packaging,Dry Cereals,
+Pre-Harvest,Dry Cereals,5
+Processing,Dry Cereals,192.89
+Restaurants,Dry Cereals,61.55
+Retail,Dry Cereals,1.06
+Stacking,Dry Cereals,1.5
+Storage,Dry Cereals,3307.32
+Traders,Dry Cereals,8.695
+Transport,Dry Cereals,1366.597
+Wholesale,Dry Cereals,2938.97
+WholeSupplyChain,Dry Cereals,956.2025
+Consumer,Eggs,
+Distribution,Eggs,8.4
+Export,Eggs,
+Farm,Eggs,6.9
+Grading,Eggs,
+Harvest,Eggs,62.5
+Market,Eggs,
+Packaging,Eggs,
+Pre-Harvest,Eggs,
+Processing,Eggs,
+Restaurants,Eggs,
+Retail,Eggs,6.6
+Stacking,Eggs,
+Storage,Eggs,
+Traders,Eggs,7.4
+Transport,Eggs,
+Wholesale,Eggs,
+WholeSupplyChain,Eggs,
+Consumer,Fruits,63.45
+Distribution,Fruits,210.115
+Export,Fruits,190.285
+Farm,Fruits,443.34
+Grading,Fruits,1
+Harvest,Fruits,192.54
+Market,Fruits,20
+Packaging,Fruits,10.1
+Pre-Harvest,Fruits,
+Processing,Fruits,191.66
+Restaurants,Fruits,
+Retail,Fruits,1070.925
+Stacking,Fruits,
+Storage,Fruits,318.71
+Traders,Fruits,65.03
+Transport,Fruits,317.89
+Wholesale,Fruits,223.51
+WholeSupplyChain,Fruits,2967.2307
+Consumer,Meat,37
+Distribution,Meat,
+Export,Meat,
+Farm,Meat,
+Grading,Meat,
+Harvest,Meat,
+Market,Meat,
+Packaging,Meat,
+Pre-Harvest,Meat,
+Processing,Meat,
+Restaurants,Meat,
+Retail,Meat,4
+Stacking,Meat,
+Storage,Meat,
+Traders,Meat,
+Transport,Meat,
+Wholesale,Meat,
+WholeSupplyChain,Meat,75.78
+Consumer,Milk ,18
+Distribution,Milk ,
+Export,Milk ,
+Farm,Milk ,
+Grading,Milk ,
+Harvest,Milk ,
+Market,Milk ,
+Packaging,Milk ,
+Pre-Harvest,Milk ,
+Processing,Milk ,
+Restaurants,Milk ,
+Retail,Milk ,12
+Stacking,Milk ,
+Storage,Milk ,
+Traders,Milk ,
+Transport,Milk ,
+Wholesale,Milk ,
+WholeSupplyChain,Milk ,94.28
+Consumer,Vegetables,92.01
+Distribution,Vegetables,344.4
+Export,Vegetables,161.325
+Farm,Vegetables,1636.475
+Grading,Vegetables,45
+Harvest,Vegetables,593.815
+Market,Vegetables,63.3
+Packaging,Vegetables,33
+Pre-Harvest,Vegetables,61.3
+Processing,Vegetables,351.01
+Restaurants,Vegetables,32.52
+Retail,Vegetables,1374.39
+Stacking,Vegetables,16
+Storage,Vegetables,720.97
+Traders,Vegetables,147.11
+Transport,Vegetables,488.735
+Wholesale,Vegetables,396.558
+WholeSupplyChain,Vegetables,6092.7536
